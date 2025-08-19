@@ -1,2 +1,1 @@
-# Ojousama-Number-Filter
-号码库
+# 美国号码库管理
